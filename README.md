@@ -1,4 +1,4 @@
-# Hello! Collins here 👋
+# Hey! Collins here 👋
 
 Welcome to my GitHub profile! I'm a Data Scientist and Full-Stack Developer passionate about leveraging data to predict outcomes and build intelligent applications.
 
