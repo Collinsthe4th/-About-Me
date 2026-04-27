@@ -7,8 +7,8 @@ Welcome to my GitHub profile! I'm a Data Scientist and Full-Stack Developer pass
 I'm a data-driven developer with expertise in machine learning, statistical analysis, and full-stack web development. I'm fascinated by the ability to predict future outcomes using data and am currently exploring the intersection of NLP and AI to build advanced chatbots and language models. When I'm not coding, you'll find me watching anime, reading manhwa, or listening to music.
 
 ## ☎️ Contact Me
-![LinkedIn]((https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(in/collins-akagha-10846b327))
-![Gmail]((collinsakagha22@gmail.com)(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white))
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![[Gmail]](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ## 👨🏽‍💻 Skills & Technologies
 
