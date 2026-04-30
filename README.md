@@ -1,10 +1,10 @@
-# Hey! Collins here 👋
+# Hey! Collins here 👋🏼
 
-Welcome to my GitHub profile! I'm a Data Scientist and Full-Stack Developer passionate about leveraging data to predict outcomes and build intelligent applications.
+Welcome to my GitHub profile! where I'm passionate about leveraging data to predict outcomes and build intelligent applications.
 
 ## 😵‍💫 About Me
 
-I'm a data-driven developer with expertise in machine learning, statistical analysis, and full-stack web development. I'm fascinated by the ability to predict future outcomes using data and am currently exploring the intersection of NLP and AI to build advanced chatbots and language models. When I'm not coding, you'll find me watching anime, reading manhwa, or listening to music.
+I'm a data-driven developer with expertise in machine learning, statistical analysis, and full-stack web development. I'm fascinated by the ability to predict future outcomes using data and am currently exploring the intersection of NLP and AI to build advanced chatbots and language models. When I'm not coding, you'll find me watching anime, reading webnovels/manhwa, or feeding my imagination with fake scenarios (It helps with my creativity). 
 
 ## ☎️ Contact Me
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
@@ -78,7 +78,7 @@ An end-to-end machine learning project that predicts housing prices using linear
 
 ## 🤾🏼‍♂️ Hobbies & Interests
 
-- Anime and Manhwa enthusiast
+- Webnovel, anime and Manhwa enthusiast
 - Music & Board Game lover
 - Building creative projects at the intersection of anime/manhwa and technology
 
