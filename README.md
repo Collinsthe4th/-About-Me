@@ -54,7 +54,7 @@ An end-to-end machine learning project that predicts housing prices using linear
 
 **Technologies:** Python, scikit-learn, Flask, Linear Regression
 
-[View Repository](https://github.com/Collinsthe4th/boston-housing-predictor)
+[View Repository](https://github.com/Collinsthe4th/boston-housing-prediction)
 
 ## 📝 Currently Learning
 
