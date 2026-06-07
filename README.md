@@ -7,8 +7,9 @@ Welcome to my GitHub profile! where I'm passionate about leveraging data to pred
 I'm a data-driven developer with expertise in machine learning, statistical analysis, and full-stack web development. I'm fascinated by the ability to predict future outcomes using data and am currently exploring the intersection of NLP and AI to build advanced chatbots and language models. When I'm not coding, you'll find me watching anime, reading webnovels/manhwa, or feeding my imagination with fake scenarios (It helps with my creativity). 
 
 ## ☎️ Contact Me
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![[Gmail]](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+  
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/collins-akagha-10846b327)
+[![[Gmail]](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:collinsakagha22@gmail.com)
 
 ## 👨🏽‍💻 Skills & Technologies
 
@@ -84,4 +85,4 @@ An end-to-end machine learning project that predicts housing prices using linear
 
 ---
 
-*Thanks for visiting! Feel free to explore my repositories and connect if you'd like to collaborate on exciting data science or full-stack projects!*
+*Thanks for visiting! Feel free to explore my repositories and connect if you'd like to collaborate on exciting projects!*
